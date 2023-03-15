@@ -35,5 +35,35 @@
         </defs>
       </svg>
     </div>
+    <img src="./assets/img/ic_smartplay_2.svg" />
+    <div>
+      <svg
+        width="132"
+        height="33"
+        viewBox="0 0 132 33"
+        fill="none"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M0 4C0 1.79086 1.79086 0 4 0H106.23C107.518 0 108.727 0.619871 109.478 1.66546L130.862 31.4164C131.337 32.0779 130.864 33 130.05 33H107.25H4C1.79086 33 0 31.2091 0 29V4Z"
+          fill="url(#paint0_linear)"
+        />
+        <defs>
+          <linearGradient
+            id="paint0_linear"
+            x1="0%"
+            y1="0%"
+            x2="0%"
+            y2="100%"
+            gradientUnits="objectBoundingBox"
+          >
+            <stop offset="0" stop-color="#9A7DB9" />
+            <stop offset="50%" stop-color="#755E9B" />
+            <stop offset="100%" stop-color="#574C76" />
+          </linearGradient>
+        </defs>
+      </svg>
+    </div>
   </div>
 </template>
